@@ -1,4 +1,4 @@
-# Task Manager — Specifiche del laboratorio - Anna
+# Task Manager — Specifiche del laboratorio - Conflitto risolto
 
 ## Funzioni attuali
 - Creazione task con titolo e assegnatario
