@@ -1,4 +1,4 @@
-# Task Manager — Laboratorio Git e GitHub, Giorno 2
+# modifica Marco
 
 Piccola applicazione Python **senza dipendenze esterne**, predisposta per esercizi su collaborazione, branch, merge, rebase, cherry-pick e dipendenze fra feature.
 
