@@ -1,4 +1,4 @@
-# Task Manager — Specifiche del laboratorio
+# Task Manager — Specifiche del laboratorio - Anna
 
 ## Funzioni attuali
 - Creazione task con titolo e assegnatario
