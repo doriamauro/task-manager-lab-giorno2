@@ -1,4 +1,4 @@
-# Task Manager — Specifiche del laboratorio
+# Task Manager — Specifiche del laboratorio secondo Marco
 
 ## Funzioni attuali
 - Creazione task con titolo e assegnatario
